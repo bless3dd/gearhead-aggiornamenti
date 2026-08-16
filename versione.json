@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.1",
-  "note": "Anello del profilo che si riempie davvero, colore del nome corretto per i gradi alti, ruolo In Servizio assegnato su Discord, log anche per fatture e timbrature fatte da Discord, avvio unico e messaggi chiari quando la porta e occupata.",
-  "pubblicato": "2026-08-16T19:07:06.278Z",
-  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.1"
+  "versione": "1.0.2",
+  "note": "Corretto il backend che restava acceso dopo una chiusura brusca dell'applicazione e teneva la porta occupata. Se un backend GearHead e gia attivo ora viene riusato invece di bloccare l'avvio.",
+  "pubblicato": "2026-08-16T19:21:48.864Z",
+  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.2"
 }
