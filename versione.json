@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.3",
-  "note": "Aggiornamenti ora immediati: aggirata la cache di GitHub che li ritardava fino a cinque minuti.",
-  "pubblicato": "2026-08-16T19:27:26.755Z",
-  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.3"
+  "versione": "1.0.4",
+  "note": "Le impostazioni nuove ora raggiungono anche chi ha gia installato: prima restavano ferme a com'erano al primo avvio, e il ruolo In Servizio non veniva assegnato.",
+  "pubblicato": "2026-08-16T20:01:49.300Z",
+  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.4"
 }
