@@ -1,6 +1,7 @@
 {
-  "versione": "1.0.4",
-  "note": "Le impostazioni nuove ora raggiungono anche chi ha gia installato: prima restavano ferme a com'erano al primo avvio, e il ruolo In Servizio non veniva assegnato.",
-  "pubblicato": "2026-08-16T20:01:49.300Z",
-  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.4"
+  "versione": "1.0.5",
+  "note": "L'aggiornamento ora si scarica dentro l'applicazione, con barra di avanzamento, e parte l'installazione da solo. Prima apriva GitHub nel browser.",
+  "pubblicato": "2026-08-16T20:17:10.980Z",
+  "installer": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/download/v1.0.5/GearHead.Customs.1.0.5.msi",
+  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.5"
 }
