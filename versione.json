@@ -1,7 +1,7 @@
 {
-  "versione": "1.0.7",
-  "note": "Le fatture e le ore fatte nell'app risultano anche sul bot Discord",
-  "pubblicato": "2026-08-16T23:18:59.387Z",
-  "installer": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/download/v1.0.7/GearHead.Customs.1.0.7.msi",
-  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.7"
+  "versione": "1.0.8",
+  "note": "L'app si collega al portale dell'officina, niente più token da inserire",
+  "pubblicato": "2026-08-18T18:05:31.034Z",
+  "installer": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/download/v1.0.8/GearHead.Customs.1.0.8.msi",
+  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.8"
 }
