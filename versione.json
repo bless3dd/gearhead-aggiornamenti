@@ -1,7 +1,7 @@
 {
-  "versione": "1.0.11",
-  "note": "L'app si collega al portale nuovo",
-  "pubblicato": "2026-10-11T04:06:50.885Z",
-  "installer": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/download/v1.0.11/GearHead.Customs.1.0.11.msi",
-  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.11"
+  "versione": "1.0.12",
+  "note": "L aggiornamento si installa da solo, senza richiedere la cartella",
+  "pubblicato": "2026-10-11T04:23:52.277Z",
+  "installer": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/download/v1.0.12/GearHead.Customs.1.0.12.msi",
+  "url": "https://github.com/bless3dd/gearhead-aggiornamenti/releases/tag/v1.0.12"
 }
